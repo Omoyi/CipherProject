@@ -18,3 +18,4 @@ in short it's a caesar cipher
 ***Output***
 
 * After inputting the name and key required you will receive the decrypted or encrypted word you wanted.
+* If you choose to exit, you will receive a message thanking you and giving you farewells and this will terminate the server.

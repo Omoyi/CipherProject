@@ -1,2 +1,44 @@
-# Default ignored files
+# Default ignored files #
 /workspace.xml
+/gradle.xml
+/misc.xml
+/uiDesigner.xml
+/vcs.xml
+
+# Intellij #
+##############
+.idea
+.idea/
+
+# OS generated files #
+############
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Java and Gradle #
+############
+build/
+.gradle/
+out/
+out
+.gradle
+gradle
+gradlew.bat
+gradlew
+settings.gradle
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip

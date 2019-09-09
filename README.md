@@ -5,5 +5,5 @@ in short it's a caesar cipher
 
 ## BDD(Behavior Driven Development)
 
-*** Input ***
+***Input***
  

@@ -8,7 +8,7 @@ in short it's a caesar cipher
 ***Input***
 
 * Choose what you want to do on the menu:
-  * Encryption   
+  * Encryption  
   * Decryption or  ***(approve it by input the word as it is written respecting the capitalization used.)***
   * Exit
 
@@ -23,3 +23,13 @@ in short it's a caesar cipher
 * If you choose to exit, you will receive a message thanking you and giving you farewells and this will 
 terminate the server.
 
+## Contacts
+
+**urakhel7@gmail.com**
+
+### License and copyright
+
+MIT License
+
+### Image showing my project's functionality/
+![decryption](src/)

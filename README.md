@@ -7,7 +7,8 @@ in short it's a caesar cipher
 
 ***Input***
 
-* Choose what you want to do on the menu: * Encryption
-                                          * Decryption or
-                                          * Exit
+* Choose what you want to do on the menu:
+  * Encryption
+  * Decryption or
+  * Exit
  

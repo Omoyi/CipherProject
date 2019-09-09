@@ -1,5 +1,4 @@
 
-
 //public class Encryption {
 //    public String Encrypt(String input, int key) {
 //        StringBuilder chWord = new StringBuilder(input);
@@ -24,6 +23,8 @@
 //    }
 //}
 
+import java.util.Scanner;
+
 import static java.lang.Character.isLowerCase;
 import static java.lang.Character.isUpperCase;
 
@@ -31,12 +32,15 @@ public class Encryption {
 
     private static final int ALPHABET_SIZE = 26;
 
-    public String cipher(String message, int rotateBy) {
+    public Scanner cipher(String message, int rotateBy) {
         // rotate by only the size of the alphabet:
         rotateBy %= ALPHABET_SIZE;
         char[] chars = message.toCharArray();
         rotate(chars, rotateBy);
-        return new String(chars);
+
+        System.out.println("a word");
+        Scanner  myScn = new Scanner(String.valueOf(chars));
+        return myScn;
     }
 
     private void rotate(char[] chars, int rotateBy) {
@@ -57,6 +61,7 @@ public class Encryption {
         if (c > lastChar) {
             return (char) (c - ALPHABET_SIZE);
         }
+
         return c;
     }
 }

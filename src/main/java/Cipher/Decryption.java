@@ -1,5 +1,4 @@
 package Cipher;
-
 public class Decryption {
     public String Decryption(String message,int number){
         char theText;

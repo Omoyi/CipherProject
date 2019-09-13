@@ -5,7 +5,7 @@ in short it's a caesar cipher
 
 ## Author
 
-***Uwimana Rachel***
+**Uwimana Rachel**
 
 ## BDD(Behavior Driven Development)
 

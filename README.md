@@ -3,6 +3,10 @@
 This is a coding and decoding project, that uses encryption and decryption methods
 in short it's a caesar cipher
 
+## Author
+
+***Uwimana Rachel***
+
 ## BDD(Behavior Driven Development)
 
 ***Input***
@@ -26,6 +30,10 @@ terminate the server.
 ## Contacts
 
 **urakhel7@gmail.com**
+
+## Technologies used
+
+* Java(hats to you!!)
 
 ### License and copyright
 
